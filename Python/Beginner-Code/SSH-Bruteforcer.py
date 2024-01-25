@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# By: 0xBroth - Arguably the best part of the soup!
 # This is an ssh bruteforcer that I expanded on from TCM's python 101 course.
 # I attempted to create some functions that could assist with cleaning up an creating lists for the
 # brute forcing function
